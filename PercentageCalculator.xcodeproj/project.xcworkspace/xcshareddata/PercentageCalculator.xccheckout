@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>92C64F5B-85E2-42F9-91AF-5943E44EBD99</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PercentageCalculator</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1DF5B75EAC2EFE2498E632D7294803A03F7FC02D</key>
+		<string>https://github.com/Revathi-j/PercentageCalculator.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PercentageCalculator.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1DF5B75EAC2EFE2498E632D7294803A03F7FC02D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Revathi-j/PercentageCalculator.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1DF5B75EAC2EFE2498E632D7294803A03F7FC02D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1DF5B75EAC2EFE2498E632D7294803A03F7FC02D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PercentageCalculator</string>
+		</dict>
+	</array>
+</dict>
+</plist>
