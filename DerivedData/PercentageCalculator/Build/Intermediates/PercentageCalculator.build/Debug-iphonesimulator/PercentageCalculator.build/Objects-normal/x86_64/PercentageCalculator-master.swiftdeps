@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.0 (swiftlang-700.0.59 clang-700.0.72)"
+options: "7f607f99d04dff9c0ab1d17eac16f792"
+build_time: [512732046, 301311000]
+inputs: 
+	"/Users/blt0009-/Desktop/PercentageCalculator/PercentageCalculator/ViewController.swift": !dirty [510040199, 0]
+	"/Users/blt0009-/Desktop/PercentageCalculator/PercentageCalculator/AppDelegate.swift": !dirty [507821662, 0]

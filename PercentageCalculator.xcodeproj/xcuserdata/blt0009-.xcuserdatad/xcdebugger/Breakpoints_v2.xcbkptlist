@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PercentageCalculatorTests/PercentageCalculatorTests.swift"
+            timestampString = "481109446.071005"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "testLabelValuesShowedProperly()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PercentageCalculatorTests.PercentageCalculatorTests.testLabelValuesShowedProperly (PercentageCalculatorTests.PercentageCalculatorTests)() -&gt; ()"
+                  moduleName = "PercentageCalculatorTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/blt0009-/Downloads/PercentageCalculator/PercentageCalculatorTests/PercentageCalculatorTests.swift"
+                  timestampString = "481109457.287301"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "835">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PercentageCalculatorTests.PercentageCalculatorTests.(testLabelValuesShowedProperly (PercentageCalculatorTests.PercentageCalculatorTests) -&gt; () -&gt; ()).(implicit closure #3)"
+                  moduleName = "PercentageCalculatorTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/blt0009-/Downloads/PercentageCalculator/PercentageCalculatorTests/PercentageCalculatorTests.swift"
+                  timestampString = "481109457.318681"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "46">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
