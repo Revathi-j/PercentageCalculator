@@ -1,0 +1,358 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "PercentageCalculatorTests"
+provides-nominal:
+- "C25PercentageCalculatorTests25PercentageCalculatorTests"
+provides-member:
+- ["C25PercentageCalculatorTests25PercentageCalculatorTests", ""]
+provides-dynamic-lookup:
+- "vc"
+- "testExample"
+- "testPerformanceExample"
+- "testLabelValuesShowedProperly"
+- "tearDown"
+- "setUp"
+depends-top-level:
+- !private "XCTAssert"
+- !private "UIStoryboard"
+- "ViewController"
+- !private "StringLiteralType"
+- !private "=="
+- "XCTestCase"
+- !private "NSBundle"
+- !private "Float"
+- "PercentageCalculatorTests"
+depends-member:
+- !private ["PSs16AbsoluteValuable", "init"]
+- !private ["PSs9AnyObject", "Float"]
+- !private ["PSs9AnyObject", "NSBundle"]
+- !private ["PSs9AnyObject", "UIStoryboard"]
+- !private ["PSs9AnyObject", "XCTAssert"]
+- ["PSs9AnyObject", "init"]
+- !private ["PSs9AnyObject", "instantiateInitialViewController"]
+- !private ["PSs9AnyObject", "mainBundle"]
+- !private ["PSs9AnyObject", "measureBlock"]
+- !private ["PSs9AnyObject", "numberLabel"]
+- !private ["PSs9AnyObject", "percentageLabel"]
+- ["PSs9AnyObject", "setUp"]
+- ["PSs9AnyObject", "tearDown"]
+- ["PSs9AnyObject", "testExample"]
+- ["PSs9AnyObject", "testLabelValuesShowedProperly"]
+- ["PSs9AnyObject", "testPerformanceExample"]
+- !private ["PSs9AnyObject", "text"]
+- !private ["PSs9AnyObject", "updateLabels"]
+- ["PSs9AnyObject", "vc"]
+- !private ["PSs9AnyObject", "view"]
+- ["PSs9AnyObject", ""]
+- !private ["PSs11CVarArgType", "Float"]
+- !private ["PSs11CVarArgType", "NSBundle"]
+- !private ["PSs11CVarArgType", "UIStoryboard"]
+- !private ["PSs11CVarArgType", "XCTAssert"]
+- ["PSs11CVarArgType", "init"]
+- !private ["PSs11CVarArgType", "instantiateInitialViewController"]
+- !private ["PSs11CVarArgType", "mainBundle"]
+- !private ["PSs11CVarArgType", "measureBlock"]
+- !private ["PSs11CVarArgType", "numberLabel"]
+- !private ["PSs11CVarArgType", "percentageLabel"]
+- ["PSs11CVarArgType", "setUp"]
+- ["PSs11CVarArgType", "tearDown"]
+- ["PSs11CVarArgType", "testExample"]
+- ["PSs11CVarArgType", "testLabelValuesShowedProperly"]
+- ["PSs11CVarArgType", "testPerformanceExample"]
+- !private ["PSs11CVarArgType", "text"]
+- !private ["PSs11CVarArgType", "updateLabels"]
+- ["PSs11CVarArgType", "vc"]
+- !private ["PSs11CVarArgType", "view"]
+- ["PSs11CVarArgType", ""]
+- !private ["PSs10Comparable", "init"]
+- !private ["PSs23CustomStringConvertible", "Float"]
+- !private ["PSs23CustomStringConvertible", "NSBundle"]
+- !private ["PSs23CustomStringConvertible", "UIStoryboard"]
+- !private ["PSs23CustomStringConvertible", "XCTAssert"]
+- ["PSs23CustomStringConvertible", "init"]
+- !private ["PSs23CustomStringConvertible", "instantiateInitialViewController"]
+- !private ["PSs23CustomStringConvertible", "mainBundle"]
+- !private ["PSs23CustomStringConvertible", "measureBlock"]
+- !private ["PSs23CustomStringConvertible", "numberLabel"]
+- !private ["PSs23CustomStringConvertible", "percentageLabel"]
+- ["PSs23CustomStringConvertible", "setUp"]
+- ["PSs23CustomStringConvertible", "tearDown"]
+- ["PSs23CustomStringConvertible", "testExample"]
+- ["PSs23CustomStringConvertible", "testLabelValuesShowedProperly"]
+- ["PSs23CustomStringConvertible", "testPerformanceExample"]
+- !private ["PSs23CustomStringConvertible", "text"]
+- !private ["PSs23CustomStringConvertible", "updateLabels"]
+- ["PSs23CustomStringConvertible", "vc"]
+- !private ["PSs23CustomStringConvertible", "view"]
+- ["PSs23CustomStringConvertible", ""]
+- !private ["PSs9Equatable", "Float"]
+- !private ["PSs9Equatable", "NSBundle"]
+- !private ["PSs9Equatable", "UIStoryboard"]
+- !private ["PSs9Equatable", "XCTAssert"]
+- ["PSs9Equatable", "init"]
+- !private ["PSs9Equatable", "instantiateInitialViewController"]
+- !private ["PSs9Equatable", "mainBundle"]
+- !private ["PSs9Equatable", "measureBlock"]
+- !private ["PSs9Equatable", "numberLabel"]
+- !private ["PSs9Equatable", "percentageLabel"]
+- ["PSs9Equatable", "setUp"]
+- ["PSs9Equatable", "tearDown"]
+- ["PSs9Equatable", "testExample"]
+- ["PSs9Equatable", "testLabelValuesShowedProperly"]
+- ["PSs9Equatable", "testPerformanceExample"]
+- !private ["PSs9Equatable", "text"]
+- !private ["PSs9Equatable", "updateLabels"]
+- ["PSs9Equatable", "vc"]
+- !private ["PSs9Equatable", "view"]
+- ["PSs9Equatable", ""]
+- !private ["Sf", "init"]
+- !private ["PSs23FloatLiteralConvertible", "init"]
+- !private ["PSs17FloatingPointType", "init"]
+- !private ["PSs8Hashable", "Float"]
+- !private ["PSs8Hashable", "NSBundle"]
+- !private ["PSs8Hashable", "UIStoryboard"]
+- !private ["PSs8Hashable", "XCTAssert"]
+- ["PSs8Hashable", "init"]
+- !private ["PSs8Hashable", "instantiateInitialViewController"]
+- !private ["PSs8Hashable", "mainBundle"]
+- !private ["PSs8Hashable", "measureBlock"]
+- !private ["PSs8Hashable", "numberLabel"]
+- !private ["PSs8Hashable", "percentageLabel"]
+- ["PSs8Hashable", "setUp"]
+- ["PSs8Hashable", "tearDown"]
+- ["PSs8Hashable", "testExample"]
+- ["PSs8Hashable", "testLabelValuesShowedProperly"]
+- ["PSs8Hashable", "testPerformanceExample"]
+- !private ["PSs8Hashable", "text"]
+- !private ["PSs8Hashable", "updateLabels"]
+- ["PSs8Hashable", "vc"]
+- !private ["PSs8Hashable", "view"]
+- ["PSs8Hashable", ""]
+- !private ["PSs25IntegerLiteralConvertible", "init"]
+- !private ["CSo8NSBundle", "mainBundle"]
+- !private ["PSo8NSCoding", "numberLabel"]
+- !private ["PSo8NSCoding", "percentageLabel"]
+- !private ["PSo8NSCoding", "text"]
+- !private ["PSo8NSCoding", "updateLabels"]
+- !private ["PSo8NSCoding", "view"]
+- !private ["PSo26NSExtensionRequestHandling", "numberLabel"]
+- !private ["PSo26NSExtensionRequestHandling", "percentageLabel"]
+- !private ["PSo26NSExtensionRequestHandling", "updateLabels"]
+- !private ["PSo26NSExtensionRequestHandling", "view"]
+- !private ["CSo8NSObject", "Float"]
+- !private ["CSo8NSObject", "NSBundle"]
+- !private ["CSo8NSObject", "UIStoryboard"]
+- ["CSo8NSObject", "ViewController"]
+- !private ["CSo8NSObject", "XCTAssert"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "instantiateInitialViewController"]
+- !private ["CSo8NSObject", "mainBundle"]
+- !private ["CSo8NSObject", "measureBlock"]
+- !private ["CSo8NSObject", "numberLabel"]
+- !private ["CSo8NSObject", "percentageLabel"]
+- ["CSo8NSObject", "setUp"]
+- ["CSo8NSObject", "tearDown"]
+- ["CSo8NSObject", "testExample"]
+- ["CSo8NSObject", "testLabelValuesShowedProperly"]
+- ["CSo8NSObject", "testPerformanceExample"]
+- !private ["CSo8NSObject", "text"]
+- !private ["CSo8NSObject", "updateLabels"]
+- ["CSo8NSObject", "vc"]
+- !private ["CSo8NSObject", "view"]
+- !private ["PSo16NSObjectProtocol", "Float"]
+- !private ["PSo16NSObjectProtocol", "NSBundle"]
+- !private ["PSo16NSObjectProtocol", "UIStoryboard"]
+- !private ["PSo16NSObjectProtocol", "XCTAssert"]
+- ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "instantiateInitialViewController"]
+- !private ["PSo16NSObjectProtocol", "mainBundle"]
+- !private ["PSo16NSObjectProtocol", "measureBlock"]
+- !private ["PSo16NSObjectProtocol", "numberLabel"]
+- !private ["PSo16NSObjectProtocol", "percentageLabel"]
+- ["PSo16NSObjectProtocol", "setUp"]
+- ["PSo16NSObjectProtocol", "tearDown"]
+- ["PSo16NSObjectProtocol", "testExample"]
+- ["PSo16NSObjectProtocol", "testLabelValuesShowedProperly"]
+- ["PSo16NSObjectProtocol", "testPerformanceExample"]
+- !private ["PSo16NSObjectProtocol", "text"]
+- !private ["PSo16NSObjectProtocol", "updateLabels"]
+- ["PSo16NSObjectProtocol", "vc"]
+- !private ["PSo16NSObjectProtocol", "view"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["Sq", "deinit"]
+- !private ["C25PercentageCalculatorTests25PercentageCalculatorTests", "Float"]
+- !private ["C25PercentageCalculatorTests25PercentageCalculatorTests", "NSBundle"]
+- !private ["C25PercentageCalculatorTests25PercentageCalculatorTests", "UIStoryboard"]
+- ["C25PercentageCalculatorTests25PercentageCalculatorTests", "ViewController"]
+- !private ["C25PercentageCalculatorTests25PercentageCalculatorTests", "XCTAssert"]
+- ["C25PercentageCalculatorTests25PercentageCalculatorTests", "deinit"]
+- ["C25PercentageCalculatorTests25PercentageCalculatorTests", "init"]
+- !private ["C25PercentageCalculatorTests25PercentageCalculatorTests", "measureBlock"]
+- ["C25PercentageCalculatorTests25PercentageCalculatorTests", "setUp"]
+- ["C25PercentageCalculatorTests25PercentageCalculatorTests", "tearDown"]
+- ["C25PercentageCalculatorTests25PercentageCalculatorTests", "testExample"]
+- ["C25PercentageCalculatorTests25PercentageCalculatorTests", "testLabelValuesShowedProperly"]
+- ["C25PercentageCalculatorTests25PercentageCalculatorTests", "testPerformanceExample"]
+- ["C25PercentageCalculatorTests25PercentageCalculatorTests", "vc"]
+- !private ["PSs16SignedNumberType", "init"]
+- !private ["PSs10Strideable", "init"]
+- !private ["PSo29UIAccessibilityIdentification", "text"]
+- !private ["PSo12UIAppearance", "text"]
+- !private ["PSo21UIAppearanceContainer", "numberLabel"]
+- !private ["PSo21UIAppearanceContainer", "percentageLabel"]
+- !private ["PSo21UIAppearanceContainer", "text"]
+- !private ["PSo21UIAppearanceContainer", "updateLabels"]
+- !private ["PSo21UIAppearanceContainer", "view"]
+- !private ["PSo18UIContentContainer", "numberLabel"]
+- !private ["PSo18UIContentContainer", "percentageLabel"]
+- !private ["PSo18UIContentContainer", "updateLabels"]
+- !private ["PSo18UIContentContainer", "view"]
+- !private ["PSo17UICoordinateSpace", "text"]
+- !private ["PSo13UIDynamicItem", "text"]
+- !private ["CSo7UILabel", "text"]
+- !private ["CSo11UIResponder", "numberLabel"]
+- !private ["CSo11UIResponder", "percentageLabel"]
+- !private ["CSo11UIResponder", "text"]
+- !private ["CSo11UIResponder", "updateLabels"]
+- !private ["CSo11UIResponder", "view"]
+- !private ["PSo16UIStateRestoring", "numberLabel"]
+- !private ["PSo16UIStateRestoring", "percentageLabel"]
+- !private ["PSo16UIStateRestoring", "updateLabels"]
+- !private ["PSo16UIStateRestoring", "view"]
+- !private ["CSo12UIStoryboard", "init"]
+- !private ["CSo12UIStoryboard", "instantiateInitialViewController"]
+- !private ["PSo18UITraitEnvironment", "numberLabel"]
+- !private ["PSo18UITraitEnvironment", "percentageLabel"]
+- !private ["PSo18UITraitEnvironment", "text"]
+- !private ["PSo18UITraitEnvironment", "updateLabels"]
+- !private ["PSo18UITraitEnvironment", "view"]
+- !private ["CSo6UIView", "text"]
+- !private ["CSo16UIViewController", "numberLabel"]
+- !private ["CSo16UIViewController", "percentageLabel"]
+- !private ["CSo16UIViewController", "updateLabels"]
+- !private ["CSo16UIViewController", "view"]
+- !private ["C20PercentageCalculator14ViewController", "numberLabel"]
+- !private ["C20PercentageCalculator14ViewController", "percentageLabel"]
+- !private ["C20PercentageCalculator14ViewController", "updateLabels"]
+- !private ["C20PercentageCalculator14ViewController", "view"]
+- !private ["CSo6XCTest", "Float"]
+- !private ["CSo6XCTest", "NSBundle"]
+- !private ["CSo6XCTest", "UIStoryboard"]
+- ["CSo6XCTest", "ViewController"]
+- !private ["CSo6XCTest", "XCTAssert"]
+- ["CSo6XCTest", "init"]
+- !private ["CSo6XCTest", "measureBlock"]
+- ["CSo6XCTest", "setUp"]
+- ["CSo6XCTest", "tearDown"]
+- ["CSo6XCTest", "testExample"]
+- ["CSo6XCTest", "testLabelValuesShowedProperly"]
+- ["CSo6XCTest", "testPerformanceExample"]
+- ["CSo6XCTest", "vc"]
+- !private ["CSo10XCTestCase", "Float"]
+- !private ["CSo10XCTestCase", "NSBundle"]
+- !private ["CSo10XCTestCase", "UIStoryboard"]
+- ["CSo10XCTestCase", "ViewController"]
+- !private ["CSo10XCTestCase", "XCTAssert"]
+- ["CSo10XCTestCase", "init"]
+- !private ["CSo10XCTestCase", "measureBlock"]
+- ["CSo10XCTestCase", "setUp"]
+- ["CSo10XCTestCase", "tearDown"]
+- ["CSo10XCTestCase", "testExample"]
+- ["CSo10XCTestCase", "testLabelValuesShowedProperly"]
+- ["CSo10XCTestCase", "testPerformanceExample"]
+- ["CSo10XCTestCase", "vc"]
+- ["CSo10XCTestCase", ""]
+- !private ["PSs31_BuiltinFloatLiteralConvertible", "init"]
+- !private ["PSs33_BuiltinIntegerLiteralConvertible", "init"]
+- !private ["PSs19_CVarArgAlignedType", "init"]
+- !private ["PSs22_CVarArgPassedAsDouble", "init"]
+- !private ["PSs21_ObjectiveCBridgeable", "init"]
+- !private ["VSs26_OptionalNilComparisonType", "deinit"]
+- !private ["PSs12_Reflectable", "init"]
+- !private ["PSs12_Reflectable", "text"]
+- !private ["PSs11_Strideable", "init"]
+depends-nominal:
+- !private "PSs16AbsoluteValuable"
+- "PSs9AnyObject"
+- "PSs11CVarArgType"
+- !private "PSs10Comparable"
+- "PSs23CustomStringConvertible"
+- "PSs9Equatable"
+- !private "Sf"
+- !private "PSs23FloatLiteralConvertible"
+- !private "PSs17FloatingPointType"
+- "PSs8Hashable"
+- !private "PSs25IntegerLiteralConvertible"
+- !private "CSo8NSBundle"
+- !private "PSo8NSCoding"
+- !private "PSo26NSExtensionRequestHandling"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "Sq"
+- "C25PercentageCalculatorTests25PercentageCalculatorTests"
+- !private "PSs16SignedNumberType"
+- !private "PSs10Strideable"
+- !private "PSo29UIAccessibilityIdentification"
+- !private "PSo12UIAppearance"
+- !private "PSo21UIAppearanceContainer"
+- !private "PSo18UIContentContainer"
+- !private "PSo17UICoordinateSpace"
+- !private "PSo13UIDynamicItem"
+- !private "CSo7UILabel"
+- !private "CSo11UIResponder"
+- !private "PSo16UIStateRestoring"
+- !private "CSo12UIStoryboard"
+- !private "PSo18UITraitEnvironment"
+- !private "CSo6UIView"
+- !private "CSo16UIViewController"
+- !private "C20PercentageCalculator14ViewController"
+- "CSo6XCTest"
+- "CSo10XCTestCase"
+- !private "PSs31_BuiltinFloatLiteralConvertible"
+- !private "PSs33_BuiltinIntegerLiteralConvertible"
+- !private "PSs19_CVarArgAlignedType"
+- !private "PSs22_CVarArgPassedAsDouble"
+- !private "PSs21_ObjectiveCBridgeable"
+- !private "VSs26_OptionalNilComparisonType"
+- !private "PSs12_Reflectable"
+- !private "PSs11_Strideable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/Swift.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/XCTest.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/CoreGraphics.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/Darwin.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/Dispatch.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/ObjectiveC.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIKeyboardKeys.h"
+- "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIElementQuery.h"
+- "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUICoordinate.h"
+- "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIDevice.h"
+- "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIElementTypeQueryProvider.h"
+- "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIElementTypes.h"
+- "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIElementAttributes.h"
+- "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIElement.h"
+- "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIApplication.h"
+- "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestSuiteRun.h"
+- "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestSuite.h"
+- "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestProbe.h"
+- "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestObservation.h"
+- "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestObservationCenter.h"
+- "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestObserver.h"
+- "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestLog.h"
+- "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestRun.h"
+- "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestCaseRun.h"
+- "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestCase+AsynchronousTesting.h"
+- "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestCase.h"
+- "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestAssertionsImpl.h"
+- "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestAssertions.h"
+- "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCAbstractTest.h"
+- "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestErrors.h"
+- "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestDefines.h"
+- "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTest.h"
+- "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Modules/module.modulemap"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/Foundation.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/UIKit.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/CoreImage.swiftmodule"
+- "/Users/blt0009-/Desktop/PercentageCalculator/DerivedData/PercentageCalculator/Build/Products/Debug-iphonesimulator/PercentageCalculator.swiftmodule/i386.swiftmodule"
+interface-hash: "b5a5f638de8077f373ad0bb6758a9f9a"
