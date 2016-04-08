@@ -7,12 +7,12 @@ provides-member:
 - ["C20PercentageCalculator11AppDelegate", ""]
 provides-dynamic-lookup:
 depends-top-level:
-- "Bool"
 - "UIWindow"
-- "UIResponder"
-- "UIApplicationDelegate"
+- "Bool"
 - "UIApplication"
 - "AppDelegate"
+- "UIApplicationDelegate"
+- "UIResponder"
 depends-member:
 - ["C20PercentageCalculator11AppDelegate", "Bool"]
 - ["C20PercentageCalculator11AppDelegate", "UIApplication"]
