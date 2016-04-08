@@ -11,8 +11,8 @@ depends-top-level:
 - "Bool"
 - "UIApplication"
 - "AppDelegate"
-- "UIApplicationDelegate"
 - "UIResponder"
+- "UIApplicationDelegate"
 depends-member:
 - ["C20PercentageCalculator11AppDelegate", "Bool"]
 - ["C20PercentageCalculator11AppDelegate", "UIApplication"]

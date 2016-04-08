@@ -360,7 +360,7 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				INFOPLIST_FILE = PercentageCalculatorTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.appcoda.PercentageCalculatorTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.bliss.TimeTable;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/PercentageCalculator.app/PercentageCalculator";
 			};
@@ -372,7 +372,7 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				INFOPLIST_FILE = PercentageCalculatorTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.appcoda.PercentageCalculatorTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.bliss.TimeTable;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/PercentageCalculator.app/PercentageCalculator";
 			};
