@@ -6,21 +6,21 @@ provides-nominal:
 provides-member:
 - ["C25PercentageCalculatorTests25PercentageCalculatorTests", ""]
 provides-dynamic-lookup:
+- "testLabelValuesShowedProperly"
 - "vc"
+- "setUp"
+- "tearDown"
 - "testExample"
 - "testPerformanceExample"
-- "testLabelValuesShowedProperly"
-- "tearDown"
-- "setUp"
 depends-top-level:
-- !private "XCTAssert"
-- !private "UIStoryboard"
-- "ViewController"
-- !private "StringLiteralType"
-- !private "=="
 - "XCTestCase"
-- !private "NSBundle"
+- !private "StringLiteralType"
+- "ViewController"
+- !private "UIStoryboard"
 - !private "Float"
+- !private "XCTAssert"
+- !private "=="
+- !private "NSBundle"
 - "PercentageCalculatorTests"
 depends-member:
 - !private ["PSs16AbsoluteValuable", "init"]

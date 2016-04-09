@@ -1,5 +1,5 @@
 version: "Apple Swift version 2.0 (swiftlang-700.0.59 clang-700.0.72)"
 options: "f2c165c4c60f4bbc95e5cc536f1c588b"
-build_time: [513326639, 780874000]
+build_time: [513497555, 931151000]
 inputs: 
 	"/Users/blt0009-/Desktop/PercentageCalculator/PercentageCalculatorTests/PercentageCalculatorTests.swift": [513243835, 0]
