@@ -7,14 +7,14 @@ provides-member:
 - ["C20PercentageCalculator14ViewController", ""]
 provides-dynamic-lookup:
 depends-top-level:
-- !private "+"
-- "UIViewController"
-- "UISlider"
-- !private "Int"
-- "Float"
 - "ViewController"
 - "AnyObject"
 - "UILabel"
+- "UIViewController"
+- "Float"
+- !private "Int"
+- !private "+"
+- "UISlider"
 depends-member:
 - ["C20PercentageCalculator14ViewController", "AnyObject"]
 - ["C20PercentageCalculator14ViewController", "Float"]
